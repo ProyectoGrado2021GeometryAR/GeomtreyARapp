@@ -1,4 +1,4 @@
-/*ELABORADO POR PAULA ANDREA SIERRA GOMEZ Y CARLOS EDUARDO LOZANO TRIVÑO
+/*ELABORADO POR PAULA ANDREA SIERRA GOMEZ Y CARLOS EDUARDO LOZANO TRIVÃ‘O
  * Esta es una clase perteneciente al paquete modelo la cual es manejada por el estudiante
  * y contiene como methodos principales de
  * calificaciones por tematicas de cuarto y quinto
@@ -16,15 +16,7 @@ public class Score : MonoBehaviour
     public GameObject panelThemesFifth;
     void Start()
     {
-        /*
-        PlayerPrefs.DeleteKey("totalStarsCapacity");//limpiando el registro de la nota total
-        PlayerPrefs.DeleteKey("totalStarsLength");//limpiando el registro de la nota total
-        PlayerPrefs.DeleteKey("totalStarsPrims");//limpiando el registro de la nota total
-
-        PlayerPrefs.DeleteKey("totalStarsAngles");//limpiando el registro de la nota total
-        PlayerPrefs.DeleteKey("totalStarsCone");//limpiando el registro de la nota total
-        PlayerPrefs.DeleteKey("totalStarsSymmetry");*/
-
+       
     }
 
     /*metodo para cargar las notas de capacida
